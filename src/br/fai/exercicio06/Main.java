@@ -1,4 +1,4 @@
-package br.fai.exercicio05;
+package br.fai.exercicio06;
 
 public class Main {
 public static void main(String[] args) {
